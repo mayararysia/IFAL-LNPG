@@ -1,1 +1,1 @@
-# IFAL-LNPG-py
+# IFAL-LNPG
